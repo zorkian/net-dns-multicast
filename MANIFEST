@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/basic.t
+lib/Net/DNS/Multicast/Responder.pm
+lib/Net/DNS/Multicast/Client.pm
+lib/Net/DNS/Multicast.pm
